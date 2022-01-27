@@ -16,11 +16,12 @@ namespace cSharp101.Models
             Console.WriteLine(a);
             a += 1;
             Console.WriteLine(a);
-            a /= 1;
+            //a /= 1;
             Console.WriteLine(a);
             b *= 4;
             Console.WriteLine(b);
 
+            
 
 
             bool isSuccess = true;

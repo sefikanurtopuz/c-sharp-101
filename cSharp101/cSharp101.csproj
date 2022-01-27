@@ -46,6 +46,7 @@
     <Compile Include="Models\Degiskenler.cs" />
     <Compile Include="Models\Merhaba.cs" />
     <Compile Include="Models\Operatorler.cs" />
+    <Compile Include="Models\TipDonusumleri.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
