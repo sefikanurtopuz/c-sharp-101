@@ -15,10 +15,12 @@ namespace cSharp101
             // C# 101
 
             //Main Methodu - Namespace kavramı - System Using Direktifleri - Run dersi ödevi
-            Merhaba merhaba = new Merhaba();
-            merhaba.helloWorld();
+            //Merhaba merhaba = new Merhaba();
+            //merhaba.helloWorld();
 
-           
+            //Try Catch Finally ve Mantıksal Hatalar dersi ödevi
+            TryCacth tc = new TryCacth();
+            tc.trycacth();
 
         }
     }
