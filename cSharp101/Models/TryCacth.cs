@@ -23,7 +23,7 @@ namespace cSharp101.Models
             }
             finally
             {
-                Console.WriteLine("İşlem Tamalandı");
+                Console.WriteLine("İşlem Tamamlandı");
             }
             Console.WriteLine("------------------");
             try

@@ -19,9 +19,13 @@ namespace cSharp101
             //merhaba.helloWorld();
 
             //Try Catch Finally ve Mantıksal Hatalar dersi ödevi
-            TryCacth tc = new TryCacth();
-            tc.trycacth();
+            //TryCacth tc = new TryCacth();
+            //tc.trycacth();
 
+
+            //If-ElseIf-Ternary-If dersi ödevi
+            IfElse ie = new IfElse();
+            ie.ifelse();
         }
     }
 }
