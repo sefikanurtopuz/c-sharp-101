@@ -1,0 +1,8 @@
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\bin\Debug\cSharp101.exe.config
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\bin\Debug\cSharp101.exe
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\bin\Debug\cSharp101.pdb
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\obj\Debug\cSharp101.csproj.AssemblyReference.cache
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\obj\Debug\cSharp101.csproj.SuggestedBindingRedirects.cache
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\obj\Debug\cSharp101.csproj.CoreCompileInputs.cache
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\obj\Debug\cSharp101.exe
+C:\Users\sefik\Desktop\MyProjects\c-sharp-101\cSharp101\obj\Debug\cSharp101.pdb
