@@ -27,8 +27,11 @@ namespace cSharp101
             //ie.ifelse();
 
             // Switch-Case dersi ödevi
-            SwitchCase sc = new SwitchCase();
-            sc.switchcase();
+            //SwitchCase sc = new SwitchCase();
+            //sc.switchcase();
+
+            ForLoop fl = new ForLoop();
+            fl.forloop();
 
             Console.ReadLine();
         }

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Degiskenler.cs" />
+    <Compile Include="Models\ForLoop.cs" />
     <Compile Include="Models\IfElse.cs" />
     <Compile Include="Models\Merhaba.cs" />
     <Compile Include="Models\Operatorler.cs" />
