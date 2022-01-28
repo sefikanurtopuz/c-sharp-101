@@ -22,10 +22,15 @@ namespace cSharp101
             //TryCacth tc = new TryCacth();
             //tc.trycacth();
 
-
             //If-ElseIf-Ternary-If dersi ödevi
-            IfElse ie = new IfElse();
-            ie.ifelse();
+            //IfElse ie = new IfElse();
+            //ie.ifelse();
+
+            // Switch-Case dersi ödevi
+            SwitchCase sc = new SwitchCase();
+            sc.switchcase();
+
+            Console.ReadLine();
         }
     }
 }

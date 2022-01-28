@@ -47,6 +47,7 @@
     <Compile Include="Models\IfElse.cs" />
     <Compile Include="Models\Merhaba.cs" />
     <Compile Include="Models\Operatorler.cs" />
+    <Compile Include="Models\SwitchCase.cs" />
     <Compile Include="Models\TipDonusumleri.cs" />
     <Compile Include="Models\TryCacth.cs" />
     <Compile Include="Program.cs" />
