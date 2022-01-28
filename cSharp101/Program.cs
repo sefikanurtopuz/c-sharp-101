@@ -34,8 +34,13 @@ namespace cSharp101
             //ForLoop fl = new ForLoop();
             //fl.forloop();
 
-            WhileForeach wf = new WhileForeach();
-            wf.whileforeach();
+            //While Foreach desi ödevi
+            //WhileForeach wf = new WhileForeach();
+            //wf.whileforeach();
+
+            //Tanımlama, Erişim ve Döngülerle Dizi Kullanımı dersi ödevi
+            Diziler d = new Diziler();
+            d.diziler();
 
             Console.ReadLine();
         }
