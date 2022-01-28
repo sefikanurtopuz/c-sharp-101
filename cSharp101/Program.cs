@@ -30,8 +30,12 @@ namespace cSharp101
             //SwitchCase sc = new SwitchCase();
             //sc.switchcase();
 
-            ForLoop fl = new ForLoop();
-            fl.forloop();
+            //For Loop ve Break Continue Ifadeleri dersi ödevi
+            //ForLoop fl = new ForLoop();
+            //fl.forloop();
+
+            WhileForeach wf = new WhileForeach();
+            wf.whileforeach();
 
             Console.ReadLine();
         }
