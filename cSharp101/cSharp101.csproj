@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\Arrayss.cs" />
     <Compile Include="Models\Degiskenler.cs" />
     <Compile Include="Models\Diziler.cs" />
     <Compile Include="Models\ForLoop.cs" />

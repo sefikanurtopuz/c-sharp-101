@@ -39,8 +39,12 @@ namespace cSharp101
             //wf.whileforeach();
 
             //Tanımlama, Erişim ve Döngülerle Dizi Kullanımı dersi ödevi
-            Diziler d = new Diziler();
-            d.diziler();
+            //Diziler d = new Diziler();
+            //d.diziler();
+
+            //Array Sınıfı Methodları dersi ödevi
+            Arrayss a = new Arrayss();
+            a.arys();
 
             Console.ReadLine();
         }
