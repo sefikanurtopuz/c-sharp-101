@@ -49,6 +49,7 @@
     <Compile Include="Models\ForLoop.cs" />
     <Compile Include="Models\IfElse.cs" />
     <Compile Include="Models\Merhaba.cs" />
+    <Compile Include="Models\Metotlar.cs" />
     <Compile Include="Models\Operatorler.cs" />
     <Compile Include="Models\SwitchCase.cs" />
     <Compile Include="Models\TipDonusumleri.cs" />

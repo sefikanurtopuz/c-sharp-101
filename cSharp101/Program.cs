@@ -43,8 +43,20 @@ namespace cSharp101
             //d.diziler();
 
             //Array Sınıfı Methodları dersi ödevi
-            Arrayss a = new Arrayss();
-            a.arys();
+            //Arrayss a = new Arrayss();
+            //a.arys();
+
+            int a = 3;
+            int b = 2;
+            int sonuc = a+b;
+            Console.WriteLine(sonuc);
+
+            Metotlar ornek = new Metotlar();
+            ornek.EkranaYazdir(Convert.ToString(sonuc));
+
+            int sonuc2 = ornek.ArttirVeTopla(a, b);
+            ornek.EkranaYazdir(Convert.ToString(sonuc2));
+            ornek.EkranaYazdir(Convert.ToString(a + b));
 
             Console.ReadLine();
         }
