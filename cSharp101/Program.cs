@@ -46,18 +46,44 @@ namespace cSharp101
             //Arrayss a = new Arrayss();
             //a.arys();
 
-            int a = 3;
-            int b = 2;
-            int sonuc = a+b;
-            Console.WriteLine(sonuc);
+            //Metotlar dersi ödevi
+            //int a = 3;
+            //int b = 2;
+            //int sonuc = a+b;
+            //Console.WriteLine(sonuc);
 
-            Metotlar ornek = new Metotlar();
-            ornek.EkranaYazdir(Convert.ToString(sonuc));
+            //Metotlar ornek = new Metotlar();
+            //ornek.EkranaYazdir(Convert.ToString(sonuc));
 
-            int sonuc2 = ornek.ArttirVeTopla(a, b);
-            ornek.EkranaYazdir(Convert.ToString(sonuc2));
-            ornek.EkranaYazdir(Convert.ToString(a + b));
+            //int sonuc2 = ornek.ArttirVeTopla(a, b);
+            //ornek.EkranaYazdir(Convert.ToString(sonuc2));
+            //ornek.EkranaYazdir(Convert.ToString(a + b));
 
+
+            //Metot Overloading dersi ödevi
+            string sayi = "9999";
+            bool sonuc = int.TryParse(sayi, out int outSayi);
+
+            if (sonuc)
+            {
+                Console.WriteLine("Başarılı");
+                Console.WriteLine(outSayi);
+            }
+            else
+            {
+                Console.WriteLine("Başarısız");
+            }
+
+            MetotOverloading instance = new MetotOverloading();
+            instance.Topla(4, 5, out int toplamSonuc);
+            Console.WriteLine(toplamSonuc);
+
+
+            //Metot Overloading
+            int ifade = 999;
+            instance.EkranaYazdir(Convert.ToString(ifade));
+            instance.EkranaYazdir(ifade);
+            instance.EkranaYazdir("Şefika Nur", "Topuz");
             Console.ReadLine();
         }
     }
